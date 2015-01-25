@@ -13,9 +13,7 @@ Ingredients:
  - adding an ingredient online
  - adding an ingredient locally (123)
 
- 
->>>>>>> 9f8a30b88e40803001a8875426003ddb039175a0
-Directions:
+ Directions:
  1. Brown the ground beef in a large bot and drain off the excess fat.
  2. Add the tomato sauce, chili powder, cumin, oregano, salt, and cayenne.
  3. Stir, then cover and simmer over low heat for one hour.
